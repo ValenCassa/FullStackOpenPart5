@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Kiona';
+    src: url(./Kiona-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'CreatoDisplay';
+    font-weight: 400;
+    src: url(./CreatoDisplay-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CreatoDisplay';
+    font-weight: 500;
+    src: url(./CreatoDisplay-Medium.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CreatoDisplay';
+    font-weight: 600;
+    src: url(./CreatoDisplay-Bold.otf) format('opentype');
+}
